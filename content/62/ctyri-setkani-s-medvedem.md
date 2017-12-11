@@ -5,9 +5,7 @@ Tags: inspirace
 Color: red
 Fulltext: yes
 ---
-__NĚCO SE ZMĚNILO__ 
-
-_další změny… tak pozor na walkmany_
+__NĚCOOOOOO SE ZMĚNILO__ 
 
 Čtyři krátké povídkové texty, čtyři rozličné pohledy na největší šelmu evropského středověku, čtyři inspirativní náměty ke hře.
 
